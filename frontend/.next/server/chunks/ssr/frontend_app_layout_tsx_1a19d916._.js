@@ -1,0 +1,3 @@
+module.exports=[44210,a=>{"use strict";var b=a.i(18332);function c({children:a}){return(0,b.jsxs)("html",{lang:"en",children:[(0,b.jsxs)("head",{children:[(0,b.jsx)("link",{rel:"icon",href:"/favicon.ico"}),(0,b.jsx)("link",{rel:"apple-touch-icon",href:"/apple-touch-icon.png"})]}),(0,b.jsx)("body",{className:"antialiased",children:a})]})}a.s(["default",()=>c,"metadata",0,{title:"Maybe - The OS for your personal finances",description:"Open source personal finance app"}])}];
+
+//# sourceMappingURL=frontend_app_layout_tsx_1a19d916._.js.map
